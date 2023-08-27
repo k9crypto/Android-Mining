@@ -47,7 +47,7 @@ then
     fi
   done
 fi
-wget https://raw.githubusercontent.com/Oink70/Android-Mining/main/config.json -P ~/ccminer
+wget https://github.com/k9crypto/Android-Mining/blob/main/install.sh -P ~/ccminer
 
 if [ -f ~/ccminer/ccminer ]
 then
